@@ -1,0 +1,1 @@
+Installation du module WSL pour VS Code (suggestion de VS code).
