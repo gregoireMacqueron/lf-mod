@@ -4,14 +4,14 @@ French translation of Lasers &amp; Feelings - the RPG by John Harper
 
 ----
 
-Vous êtes l'équipage du vaisseau interstellaire de reconnaissance **"le
+Texte modifié///Vous êtes l'équipage du vaisseau interstellaire de reconnaissance **"le
 Maraudeur"**. Votre mission est de sonder les régions inexplorées de l'espace,
 d'avoir à faire avec des aliens à la fois amicaux et sanguinaires, et de
 défendre le Consortium contre les dangers de l'espace. Le **Capitaine Darcy** a
 été frappé par une entité psychique étrange connue sour le nom de *"Autre
 Chose"*, vous laissant livrés à vous-même tandis qu'il récupère à l'infirmerie.
 
-## Personnages joueurs
+## Personnages joueurs// texte modifié
 
 1. Choisissez un *style* pour votre personnage : **Alien**, **Androïde**,
    **Dangereux**, **Prétentieux**, **Intrépide**, **Malin** ou **Sexy**.
